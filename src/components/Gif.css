@@ -1,0 +1,15 @@
+.Gif {
+  border: 1px solid #eee;
+  color: #eee;
+  text-decoration: none;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  margin: 16px;
+  padding: 32px;
+  width: 100%;
+}
+
+.Gif p {
+  margin: 0;
+}
